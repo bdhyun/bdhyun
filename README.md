@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning TypeScript, FastAPI, and C/C++. 
 - ✅ I want to get better at testing and documentation. 
 - 🔎 I want to learn PostgreSQL, Rust, and GraphQL (using Apollo).
-- 📫 How to reach me ...
 
 <!---
 bdhyun/bdhyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
